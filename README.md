@@ -4,7 +4,7 @@
 # **О HeadHunter**
 [HeadHunter.ru](https://hh.ru/) — один из самых крупных сайтов для поиска работы для соискателей, а для работодателей — для поиска сотрудников. Компания использует самые передовые постоянно улучшающиеся инструменты для эффективного рекрутинга.
 
-# **О проекте [Анализ резюме из HeadHunter](https://github.com/AfanasevDenis/project_hh.ru/blob/main/Project-1.%20%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA.ipynb):**
+# **О проекте [Анализ резюме из HeadHunter](https://github.com/AfanasevDenis/project_hh.ru/blob/main/Project-1.ipynb):**
 
 
 Этот проект задействует примерно 44 тысячи резюме соискателей.
